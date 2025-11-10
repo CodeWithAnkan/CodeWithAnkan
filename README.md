@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Android, MERN**
 
-- 📫 How to reach me **ankanchatterjee@gmail.com**
+- 📫 How to reach me **ankanchatterjee4855@gmail.com**
 
 - ⚡ Fun fact **I think I am good at Coding**
 
