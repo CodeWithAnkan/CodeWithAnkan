@@ -1,33 +1,129 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*IPZto_chtq-97A2J7gKjLA.gif)](https://ankan.io)
-<h1 align="center">Hi 👋, I'm Ankan Chatterjee</h1>
-<h3 align="center">A passionate Full-Stack developer and a code-worm from India</h3>
-<img align="right" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="Coding">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithankan&label=Profile%20views&color=0e75b6&style=flat" alt="codewithankan" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/ankan_coder" target="blank"><img src="https://img.shields.io/twitter/follow/codewithankan?logo=twitter&style=for-the-badge" alt="codewithankan" /></a> </p>
+# Ankan Chatterjee
 
-- 🔭 I’m currently working on **Video-Chat**
+### Full-Stack Developer • AI Enthusiast • Building Fast & Useful Products
 
-- 🌱 I’m currently learning **React Js, Kotlin**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Application+Builder;React+%7C+Node.js+%7C+MongoDB;Exploring+LangChain+and+AI+Agents;Building+AeroPDF+and+AI+Tools" />
 
-- 💬 Ask me about **Android, MERN**
+</div>
 
-- 📫 How to reach me **ankanchatterjee4855@gmail.com**
+---
 
-- ⚡ Fun fact **I think I am good at Coding**
+## About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ankan_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithankan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ankan-chatterjee-4208a8187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankan-chatterjee-4208a8187/" height="30" width="40" /></a>
-<a href="https://instagram.com/ankan__chatterjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankan__chatterjee" height="30" width="40" /></a>
+- Final-year CSE student at **KIIT University**
+- Building products around **AI, productivity, and performance**
+- Interested in:
+  - Full-Stack Development
+  - AI Applications
+  - LangChain & AI Agents
+  - Android Development
+  - System Design
+- Currently working on:
+  - **AeroPDF** → Offline-first AI-powered PDF reader
+  - AI Interview Tools
+  - Enterprise Chatbot Systems
+- Learning deeply:
+  - Backend Engineering
+  - DSA in Java
+  - Vector Databases
+  - Scalable AI Architectures
+
+---
+
+## Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,c,python,kotlin" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,threejs" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithankan&show_icons=true&locale=en&layout=compact" alt="codewithankan" /></p>
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithankan&show_icons=true&locale=en" alt="codewithankan" /></p>
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,figma" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithankan&" alt="codewithankan" /></p>
+---
+
+## Featured Projects
+
+### AeroPDF
+> Lightweight offline-first PDF reader with on-device AI.
+
+- Fast PDF rendering
+- Privacy-focused
+- AI-powered document interaction
+- Android-native experience
+
+---
+
+### 3D Developer Portfolio
+> Interactive portfolio built using React + Three.js + GSAP
+
+- Modern animations
+- 3D components
+- Responsive UI
+- Deployed on Vercel
+
+---
+
+### Mental Health Companion
+> AI-assisted wellness platform for mood tracking and self-care.
+
+- Personalized recommendations
+- Stress management tools
+- AI-based interaction system
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=codewithankan&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codewithankan&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=codewithankan&theme=tokyonight&hide_border=true" />
+
+</div>
+---
+
+## Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/ankan-chatterjee-4208a8187">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/codewithankan">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:ankanchatterjee4855@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+## Current Focus
+
+```txt
+Building products that are:
+- Fast
+- Minimal
+- Useful
+- AI-enhanced
+- Privacy-focused
