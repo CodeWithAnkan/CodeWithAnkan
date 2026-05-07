@@ -78,12 +78,13 @@
 
 ---
 
-### Mental Health Companion
-> AI-assisted wellness platform for mood tracking and self-care.
+### PathForge AI
+> Models trained on Kaggle dataset for Resume analysis.
 
-- Personalized recommendations
-- Stress management tools
-- AI-based interaction system
+- Personalized recommendations and explanations
+- Skill Gap analysis and current Score
+- Market Trends
+- Community chat
 
 ---
 
